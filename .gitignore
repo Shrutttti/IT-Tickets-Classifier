@@ -1,0 +1,30 @@
+
+# Data files
+*.xlsx
+*.csv
+*.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Temp files
+*.amltmp
+*.log
+*.tmp
+
+# Model outputs 
+models/
+outputs/
+
+# Virtual environment
+venv/
+env/
+
+# Environment variables
+.env
+
+# Logs
+*.log 

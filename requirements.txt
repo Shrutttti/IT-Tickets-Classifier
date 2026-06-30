@@ -1,0 +1,17 @@
+pandas==1.5.3
+numpy==1.23.5
+scipy==1.11.0
+openpyxl==3.1.5
+scikit-learn==1.5.1
+lightgbm==4.6.0
+statsmodels==0.13.5
+joblib==1.2.0
+spacy==3.7.4
+en_core_web_lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.7.1/en_core_web_lg-3.7.1-py3-none-any.whl
+matplotlib==3.7.1
+seaborn==0.13.2
+fastapi==0.123.9
+uvicorn==0.38.0
+pydantic==2.12.5
+streamlit==1.58.0
+requests==2.32.3

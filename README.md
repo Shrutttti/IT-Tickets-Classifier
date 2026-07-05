@@ -1,4 +1,4 @@
-# IT Ticket Resolution Classifier
+# IT Ticket Classifier
 
 A machine learning pipeline that predicts the **assignment group** for IT support tickets. The data is extracted from ITSM records.
 
